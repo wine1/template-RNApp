@@ -1,4 +1,3 @@
-二轮海外项目 app
 
 开发设备 macOS 第一次启动项目
  `brew install node` node版本v14及以上
