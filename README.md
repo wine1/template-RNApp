@@ -1,3 +1,10 @@
+基于ReactNative 0.69 的app创建模版
+集成以下模块
+    - antdesign-mobile
+    - app权限管理 react-native-permissions https://github.com/zoontek/react-native-permissions
+    - 高德地图组件 react-native-amap3d react-native-amap-geolocation
+    - 蓝牙组件 https://github.com/innoveit/react-native-ble-manager
+
 
 开发设备 macOS 第一次启动项目
  `brew install node` node版本v14及以上
